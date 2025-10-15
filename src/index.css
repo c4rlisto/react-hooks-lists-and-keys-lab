@@ -108,3 +108,17 @@ nav a:active {
     width: 50%;
   }
 }
+
+.project-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.technologies span {
+  background: #f0f0f0;
+  margin: 4px;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
